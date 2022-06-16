@@ -5,3 +5,7 @@ The CSS Portfolio assignment was designed to showcase my ability to build a port
 # Screenshot
 
 ![CSS webpage](https://user-images.githubusercontent.com/100255864/173239685-a41759e6-a5df-4f26-a40d-d28c9895a914.png)
+
+# Deployment Link
+
+https://antdematteo.github.io/CSS-Portfolio-HW/
